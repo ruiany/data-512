@@ -32,3 +32,6 @@ The final [csv](https://github.com/ruiany/data-512/blob/main/data-512-a1/csv/en-
 
 ## Misc
 The Legacy Pagecounts API doesn't provide any mobile visit data till October 2014.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
