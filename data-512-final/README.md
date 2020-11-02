@@ -1,0 +1,2 @@
+# DATA 512 Final Project
+For the final project of the class, I’m interested in studying the food crisis in the United States using the the US food access data from the Food Access Research Atlas (https://www.ers.usda.gov/data-products/food-access-research-atlas/) and the Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System from the Centers for Disease Control and Prevention (CDC) (https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7).
