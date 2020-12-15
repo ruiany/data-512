@@ -57,6 +57,4 @@ la_ratio | Float | The percentage of people who suffer from low food access |
 
 The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). As a permissive license, it puts only very limited restriction on reuse and has therefore an excellent license compatibility. For detailed description of the contents of license please refer to the file [License](https://github.com/ruiany/data-512/blob/main/data-512-final/LICENSE).
 
-## Code of Conduct:
 
-The authors request that all contributors abide by the project's code of conduct.
