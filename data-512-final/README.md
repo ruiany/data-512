@@ -26,8 +26,63 @@ The datasets I used are the US food access data from the [Food Access Research A
 The first dataset contains information on supermarket access at various distances depending on if the neighborhood is rural or urban. It also combines food access data with other fields such as age, race, and income. The second dataset contains data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. I'm hoping to join the two datasets by geographic information and see if there's any correlation between food access and physical health measured by obesity rate. 
 #### Final
 The final cleaned data used for analysis and visualization can be found in [data/final](https://github.com/ruiany/data-512/tree/main/data-512-final/data/final)
-The resulting food_access_health_merge.csv file will have the following schema:
-index	GeoLocation	LocationAbbr	LocationDesc	Question	Data_Value	State	la_ratio
+The resulting food_access.csv and food_access_health_merge.csv file have the following schemas:
+
+**food_access.csv**
+
+Column | Format | Description |
+|-----|------------|----|
+State	| String | State name
+County | String | County name
+Urban	| Boolean | Flag for urban tract
+lapop1	| Float | Population count beyond 1 mile from supermarket
+lapop10	 | Float | Population count beyond 10 miles from supermarket
+LAPOP1_10	| Float | Population count beyond 1 mile for urban areas or 10 miles for rural areas from supermarket
+POP2010	| Float | Population count from 2010 census	
+lalowi1	| Float | Low income population count beyond 1 mile from supermarket
+lalowi10	| Float | Low income population count beyond 10 miles from supermarket
+lakids1	| Float | Kids population count beyond 1 mile from supermarket
+lakids10 | Float | Kids population count beyond 10 miles from supermarket
+laseniors1	| Float | Seniors population count beyond 1 mile from supermarket
+laseniors10	| Float | Seniors population count beyond 10 miles from supermarket
+lawhite1	| Float | White population count beyond 1 mile from supermarket
+lawhite10	| Float | White population count beyond 10 miles from supermarket
+lablack1	| Float | Black or African American population count beyond 1 mile from supermarket
+lablack10	| Float | Black or African American population count beyond 10 miles from supermarket
+laasian1	| Float | Asian population count beyond 1 mile from supermarket
+laasian10	| Float | Asian population count beyond 10 miles from supermarket
+lahisp1	| Float | Hispanic or Latino ethnicity population count beyond 1 mile from supermarket
+lahisp10	| Float | Hispanic or Latino ethnicity population count beyond 10 miles from supermarket
+TractLOWI	| Float | Total count of low-income population in tract 
+TractKids	| Float | Total count of children age 0-17 in tract 
+TractSeniors	| Float | Total count of seniors age 65+ in tract 
+TractWhite	| Float | Total count of White population in tract 
+TractBlack	| Float | Total count of Black or African American population in tract 
+TractAsian	| Float | Total count of Asian population in tract 
+TractHispanic	| Float | Total count of Hispanic or Latino population in tract 
+la1_ratio	| Float | Ratio of population beyond 1 mile from supermarket
+la10_ratio	| Float | Ratio of population beyond 10 miles from supermarket
+la_ratio	| Float | Ratio of population beyond 1 mile and 10 miles from supermarket
+la_percentage	| Float | Percentage of population beyond 1 mile and 10 miles from supermarket
+pop_ratio_poverty	| Float | Ratio of population living with income at or below the Federal poverty thresholds for family size
+pop_ratio_kid	| Float | Population ratio of children age 0-17 
+pop_ratio_senior	| Float | Population ratio of seniors age 65+
+pop_ratio_white	| Float | Population ratio of White people
+pop_ratio_black	| Float | Population ratio of Black or African American people
+pop_ratio_asian	| Float | Population ratio of Asian people
+pop_ratio_hisp	| Float | Population ratio of Hispanic or Latino people
+la_ratio_poverty	| Float | Low food access ratio of population living with income at or below the Federal poverty thresholds for family size
+la_ratio_kid	| Float | Low food access ratio of children age 0-17
+la_ratio_senior	| Float | Low food access ratio of seniors age 65+
+la_ratio_white	| Float | Low food access ratio of White people
+la_ratio_black	| Float | Low food access ratio of Black or African American people
+la_ratio_asian	| Float | Low food access ratio of Asian people
+la_ratio_hisp	| Float | Low food access ratio of Hispanic or Latino people
+PovertyRate	| Float | Share of the tract population living with income at or below the Federal poverty thresholds for family size
+MedianFamilyIncome | Float | Tract median family income
+
+**food_access_health_merge.csv**
+
 Column | Format | Description |
 |-----|------------|----|
 index | Int | The unique census tract identifier |
