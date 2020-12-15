@@ -39,6 +39,20 @@ Data_Value | Float | The percentage of people who answer 'yes' to the survery qu
 State | String | State name | 
 la_ratio | Float | The percentage of people who suffer from low food access |
 
+## Conclusions
+#### Food desert is especially severe in the midwest and the west of the US.
+<img src="./plots/food_access_map.png" width="600">
+<img src="./plots/food_access_by_state.png" width="1000">
+
+#### Low income people were more susceptible to low food access in rural areas.
+<img src="./plots/food_access_vs_income.png" width="1100">
+
+#### No detectable bias for food access between different races, though the race ratio in the dataset was biased.
+<img src="./plots/food_access_race.png" width="900">
+
+#### There is a weak correlation between people who live food deserts and people who are overweight.
+<img src="./plots/food_access_vs_health.png" width="1000">
+
 ## License
 
 The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). As a permissive license, it puts only very limited restriction on reuse and has therefore an excellent license compatibility. For detailed description of the contents of license please refer to the file [License](https://github.com/ruiany/data-512/blob/main/data-512-final/LICENSE).
