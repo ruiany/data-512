@@ -1,0 +1,154 @@
+,index,GeoLocation,LocationAbbr,LocationDesc,Question,Data_Value,State,la_ratio
+0,1589,"(32.745510099, -89.538030825)",MS,Mississippi,Percent of adults who engage in no leisure-time physical activity,36.0,Mississippi,0.2387129259283518
+1,45410,"(32.745510099, -89.538030825)",MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,34.0,Mississippi,0.2387129259283518
+2,53748,"(32.745510099, -89.538030825)",MS,Mississippi,Percent of adults aged 18 years and older who have obesity,34.9,Mississippi,0.2387129259283518
+3,1755,"(43.655950113, -71.50036092)",NH,New Hampshire,Percent of adults who engage in no leisure-time physical activity,22.5,New Hampshire,0.24868601863258313
+4,44324,"(43.655950113, -71.50036092)",NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,35.4,New Hampshire,0.24868601863258313
+5,55997,"(43.655950113, -71.50036092)",NH,New Hampshire,Percent of adults aged 18 years and older who have obesity,26.2,New Hampshire,0.24868601863258313
+6,3263,"(32.840571122, -86.631860762)",AL,Alabama,Percent of adults aged 18 years and older who have obesity,32.0,Alabama,0.23775534983432053
+7,5740,"(32.840571122, -86.631860762)",AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,34.7,Alabama,0.23775534983432053
+8,38490,"(32.840571122, -86.631860762)",AL,Alabama,Percent of adults who engage in no leisure-time physical activity,32.6,Alabama,0.23775534983432053
+9,4235,"(44.393191174, -89.816370742)",WI,Wisconsin,Percent of adults who engage in no leisure-time physical activity,22.7,Wisconsin,0.19866670144603887
+10,6966,"(44.393191174, -89.816370742)",WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,36.2,Wisconsin,0.19866670144603887
+11,36814,"(44.393191174, -89.816370742)",WI,Wisconsin,Percent of adults aged 18 years and older who have obesity,27.7,Wisconsin,0.19866670144603887
+12,4418,"(39.290580964, -76.609260111)",MD,Maryland,Percent of adults aged 18 years and older who have obesity,28.3,Maryland,0.22033189674645928
+13,18528,"(39.290580964, -76.609260111)",MD,Maryland,Percent of adults who engage in no leisure-time physical activity,26.2,Maryland,0.22033189674645928
+14,45154,"(39.290580964, -76.609260111)",MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,36.1,Maryland,0.22033189674645928
+15,5236,"(33.998821303, -81.045371207)",SC,South Carolina,Percent of adults who engage in no leisure-time physical activity,27.2,South Carolina,0.22993382678275084
+16,15386,"(33.998821303, -81.045371207)",SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,35.0,South Carolina,0.22993382678275084
+17,35824,"(33.998821303, -81.045371207)",SC,South Carolina,Percent of adults aged 18 years and older who have obesity,30.8,South Carolina,0.22993382678275084
+18,6833,"(40.060210141, -82.404260056)",OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,36.2,Ohio,0.19715297584945132
+19,23200,"(40.060210141, -82.404260056)",OH,Ohio,Percent of adults who engage in no leisure-time physical activity,27.0,Ohio,0.19715297584945132
+20,53614,"(40.060210141, -82.404260056)",OH,Ohio,Percent of adults aged 18 years and older who have obesity,29.6,Ohio,0.19715297584945132
+21,7246,"(35.68094058, -85.774490914)",TN,Tennessee,Percent of adults aged 18 years and older who have obesity,29.2,Tennessee,0.21761809578155453
+22,39767,"(35.68094058, -85.774490914)",TN,Tennessee,Percent of adults who engage in no leisure-time physical activity,35.1,Tennessee,0.21761809578155453
+23,40177,"(35.68094058, -85.774490914)",TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,37.3,Tennessee,0.21761809578155453
+24,7315,"(44.661319543001, -84.71439027)",MI,Michigan,Percent of adults aged 18 years and older who have obesity,31.3,Michigan,0.2024566800916773
+25,48171,"(44.661319543001, -84.71439027)",MI,Michigan,Percent of adults who engage in no leisure-time physical activity,23.6,Michigan,0.2024566800916773
+26,59284,"(44.661319543001, -84.71439027)",MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,34.2,Michigan,0.2024566800916773
+27,8776,"(41.641040988001, -99.365720623)",NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,36.5,Nebraska,0.3263819195068989
+28,16261,"(41.641040988001, -99.365720623)",NE,Nebraska,Percent of adults aged 18 years and older who have obesity,28.4,Nebraska,0.3263819195068989
+29,46723,"(41.641040988001, -99.365720623)",NE,Nebraska,Percent of adults who engage in no leisure-time physical activity,26.3,Nebraska,0.3263819195068989
+30,8777,"(41.708280193, -71.522470314)",RI,Rhode Island,Percent of adults aged 18 years and older who have obesity,25.4,Rhode Island,0.21843346872000657
+31,8882,"(41.708280193, -71.522470314)",RI,Rhode Island,Percent of adults who engage in no leisure-time physical activity,26.2,Rhode Island,0.21843346872000657
+32,60600,"(41.708280193, -71.522470314)",RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,37.1,Rhode Island,0.21843346872000657
+33,12522,"(38.665510202, -80.712640135)",WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,36.5,West Virginia,0.2140862359403868
+34,47854,"(38.665510202, -80.712640135)",WV,West Virginia,Percent of adults who engage in no leisure-time physical activity,35.1,West Virginia,0.2140862359403868
+35,56552,"(38.665510202, -80.712640135)",WV,West Virginia,Percent of adults aged 18 years and older who have obesity,32.4,West Virginia,0.2140862359403868
+36,14045,"(31.312660644, -92.445680071)",LA,Louisiana,Percent of adults who engage in no leisure-time physical activity,33.8,Louisiana,0.2499943380595035
+37,50726,"(31.312660644, -92.445680071)",LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,34.1,Louisiana,0.2499943380595035
+38,58170,"(31.312660644, -92.445680071)",LA,Louisiana,Percent of adults aged 18 years and older who have obesity,33.4,Louisiana,0.2499943380595035
+39,14066,"(37.638640123, -120.999999538)",CA,California,Percent of adults who engage in no leisure-time physical activity,19.1,California,0.1739837670752313
+40,49735,"(37.638640123, -120.999999538)",CA,California,Percent of adults aged 18 years and older who have obesity,23.8,California,0.1739837670752313
+41,60157,"(37.638640123, -120.999999538)",CA,California,Percent of adults aged 18 years and older who have an overweight classification,36.4,California,0.1739837670752313
+42,14125,"(47.522278629, -120.47001079)",WA,Washington,Percent of adults aged 18 years and older who have obesity,26.5,Washington,0.2643780126213887
+43,15166,"(47.522278629, -120.47001079)",WA,Washington,Percent of adults who engage in no leisure-time physical activity,22.0,Washington,0.2643780126213887
+44,51428,"(47.522278629, -120.47001079)",WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,34.5,Washington,0.2643780126213887
+45,14552,"(21.304850435, -157.857749403)",HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,33.8,Hawaii,0.22689049208688516
+46,52133,"(21.304850435, -157.857749403)",HI,Hawaii,Percent of adults who engage in no leisure-time physical activity,21.3,Hawaii,0.22689049208688516
+47,56581,"(21.304850435, -157.857749403)",HI,Hawaii,Percent of adults aged 18 years and older who have obesity,21.8,Hawaii,0.22689049208688516
+48,14703,"(39.008830667, -75.577741168)",DE,Delaware,Percent of adults who engage in no leisure-time physical activity,27.0,Delaware,0.20082159709728672
+49,18216,"(39.008830667, -75.577741168)",DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,35.0,Delaware,0.20082159709728672
+50,19892,"(39.008830667, -75.577741168)",DE,Delaware,Percent of adults aged 18 years and older who have obesity,28.8,Delaware,0.20082159709728672
+51,14728,"(39.766910452, -86.149960194)",IN,Indiana,Percent of adults who engage in no leisure-time physical activity,29.2,Indiana,0.16790182364342565
+52,33568,"(39.766910452, -86.149960194)",IN,Indiana,Percent of adults aged 18 years and older who have obesity,30.8,Indiana,0.16790182364342565
+53,54227,"(39.766910452, -86.149960194)",IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,34.8,Indiana,0.16790182364342565
+54,15189,"(38.3477403, -98.200781227)",KS,Kansas,Percent of adults who engage in no leisure-time physical activity,26.8,Kansas,0.3026163239003934
+55,55514,"(38.3477403, -98.200781227)",KS,Kansas,Percent of adults aged 18 years and older who have obesity,29.6,Kansas,0.3026163239003934
+56,58074,"(38.3477403, -98.200781227)",KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,34.8,Kansas,0.3026163239003934
+57,15372,"(43.682630005, -114.363730042)",ID,Idaho,Percent of adults aged 18 years and older who have obesity,27.0,Idaho,0.2546015439231291
+58,46150,"(43.682630005, -114.363730042)",ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,35.2,Idaho,0.2546015439231291
+59,58870,"(43.682630005, -114.363730042)",ID,Idaho,Percent of adults who engage in no leisure-time physical activity,21.4,Idaho,0.2546015439231291
+60,15551,"(37.645970271, -84.774971048)",KY,Kentucky,Percent of adults who engage in no leisure-time physical activity,29.3,Kentucky,0.1555295863530931
+61,48848,"(37.645970271, -84.774971048)",KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,36.1,Kentucky,0.1555295863530931
+62,53116,"(37.645970271, -84.774971048)",KY,Kentucky,Percent of adults aged 18 years and older who have obesity,30.4,Kentucky,0.1555295863530931
+63,16083,"(44.353130053, -100.373530637)",SD,South Dakota,Percent of adults aged 18 years and older who have obesity,28.1,South Dakota,0.45651634369860783
+64,39450,"(44.353130053, -100.373530637)",SD,South Dakota,Percent of adults who engage in no leisure-time physical activity,27.0,South Dakota,0.45651634369860783
+65,56568,"(44.353130053, -100.373530637)",SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,36.3,South Dakota,0.45651634369860783
+66,16350,"(43.235541343, -108.109830353)",WY,Wyoming,Percent of adults aged 18 years and older who have obesity,25.0,Wyoming,0.2915072040425567
+67,49877,"(43.235541343, -108.109830353)",WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,36.3,Wyoming,0.2915072040425567
+68,59892,"(43.235541343, -108.109830353)",WY,Wyoming,Percent of adults who engage in no leisure-time physical activity,25.5,Wyoming,0.2915072040425567
+69,16394,"(42.27687047, -72.082690675)",MA,Massachusetts,Percent of adults who engage in no leisure-time physical activity,23.5,Massachusetts,0.18773047996638656
+70,20199,"(42.27687047, -72.082690675)",MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,36.6,Massachusetts,0.18773047996638656
+71,45839,"(42.27687047, -72.082690675)",MA,Massachusetts,Percent of adults aged 18 years and older who have obesity,22.7,Massachusetts,0.18773047996638656
+72,16475,"(46.355648736, -94.794200503)",MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,36.8,Minnesota,0.2492601806968956
+73,35373,"(46.355648736, -94.794200503)",MN,Minnesota,Percent of adults aged 18 years and older who have obesity,25.7,Minnesota,0.2492601806968956
+74,58298,"(46.355648736, -94.794200503)",MN,Minnesota,Percent of adults who engage in no leisure-time physical activity,21.9,Minnesota,0.2492601806968956
+75,18795,"(39.49324039, -117.071840564)",NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,35.7,Nevada,0.3760435377837073
+76,42997,"(39.49324039, -117.071840564)",NV,Nevada,Percent of adults who engage in no leisure-time physical activity,24.3,Nevada,0.3760435377837073
+77,43939,"(39.49324039, -117.071840564)",NV,Nevada,Percent of adults aged 18 years and older who have obesity,24.5,Nevada,0.3760435377837073
+78,19081,"(47.475319779, -100.118421049)",ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,36.0,North Dakota,0.40699264860441525
+79,41184,"(47.475319779, -100.118421049)",ND,North Dakota,Percent of adults who engage in no leisure-time physical activity,27.1,North Dakota,0.40699264860441525
+80,43550,"(47.475319779, -100.118421049)",ND,North Dakota,Percent of adults aged 18 years and older who have obesity,27.8,North Dakota,0.40699264860441525
+81,21383,"(37.542680674, -78.457890463)",VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,34.1,Virginia,0.2094308917336659
+82,46670,"(37.542680674, -78.457890463)",VA,Virginia,Percent of adults aged 18 years and older who have obesity,29.2,Virginia,0.2094308917336659
+83,55013,"(37.542680674, -78.457890463)",VA,Virginia,Percent of adults who engage in no leisure-time physical activity,25.0,Virginia,0.2094308917336659
+84,33677,"(40.485010283, -88.997710178)",IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,36.9,Illinois,0.20630003186545526
+85,45144,"(40.485010283, -88.997710178)",IL,Illinois,Percent of adults aged 18 years and older who have obesity,27.1,Illinois,0.20630003186545526
+86,58786,"(40.485010283, -88.997710178)",IL,Illinois,Percent of adults who engage in no leisure-time physical activity,25.1,Illinois,0.20630003186545526
+87,33769,"(42.827001032, -75.543970427)",NY,New York,Percent of adults aged 18 years and older who have obesity,24.5,New York,0.17931701390903385
+88,60584,"(42.827001032, -75.543970427)",NY,New York,Percent of adults aged 18 years and older who have an overweight classification,35.8,New York,0.17931701390903385
+89,61684,"(42.827001032, -75.543970427)",NY,New York,Percent of adults who engage in no leisure-time physical activity,26.3,New York,0.17931701390903385
+90,34509,"(40.130570048, -74.273691288)",NJ,New Jersey,Percent of adults who engage in no leisure-time physical activity,26.4,New Jersey,0.18614032697406252
+91,49033,"(40.130570048, -74.273691288)",NJ,New Jersey,Percent of adults aged 18 years and older who have obesity,23.7,New Jersey,0.18614032697406252
+92,59693,"(40.130570048, -74.273691288)",NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,37.8,New Jersey,0.18614032697406252
+93,34848,"(32.839681093, -83.627580346)",GA,Georgia,Percent of adults who engage in no leisure-time physical activity,26.7,Georgia,0.23478930859761352
+94,46373,"(32.839681093, -83.627580346)",GA,Georgia,Percent of adults aged 18 years and older who have obesity,28.0,Georgia,0.23478930859761352
+95,53864,"(32.839681093, -83.627580346)",GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,34.7,Georgia,0.23478930859761352
+96,35019,"(38.890371385, -77.031961127)",DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,29.1,District of Columbia,0.021188164971717886
+97,39926,"(38.890371385, -77.031961127)",DC,District of Columbia,Percent of adults who engage in no leisure-time physical activity,19.8,District of Columbia,0.021188164971717886
+98,50590,"(38.890371385, -77.031961127)",DC,District of Columbia,Percent of adults aged 18 years and older who have obesity,23.7,District of Columbia,0.021188164971717886
+99,35728,"(43.625381239, -72.517640791)",VT,Vermont,Percent of adults aged 18 years and older who have obesity,25.4,Vermont,0.15913887246966604
+100,41484,"(43.625381239, -72.517640791)",VT,Vermont,Percent of adults who engage in no leisure-time physical activity,21.0,Vermont,0.15913887246966604
+101,48650,"(43.625381239, -72.517640791)",VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,34.3,Vermont,0.15913887246966604
+102,35813,"(38.635790776, -92.566300053)",MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,34.6,Missouri,0.2398942581231355
+103,37225,"(38.635790776, -92.566300053)",MO,Missouri,Percent of adults who engage in no leisure-time physical activity,28.4,Missouri,0.2398942581231355
+104,62532,"(38.635790776, -92.566300053)",MO,Missouri,Percent of adults aged 18 years and older who have obesity,30.3,Missouri,0.2398942581231355
+105,37187,"(34.748650124, -92.274490743)",AR,Arkansas,Percent of adults aged 18 years and older who have obesity,30.9,Arkansas,0.28155442877897935
+106,42457,"(34.748650124, -92.274490743)",AR,Arkansas,Percent of adults who engage in no leisure-time physical activity,30.9,Arkansas,0.28155442877897935
+107,49493,"(34.748650124, -92.274490743)",AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,33.9,Arkansas,0.28155442877897935
+108,38886,"(31.827240407, -99.426770206)",TX,Texas,Percent of adults who engage in no leisure-time physical activity,27.2,Texas,0.2812941138723231
+109,51844,"(31.827240407, -99.426770206)",TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,35.4,Texas,0.2812941138723231
+110,56542,"(31.827240407, -99.426770206)",TX,Texas,Percent of adults aged 18 years and older who have obesity,30.4,Texas,0.2812941138723231
+111,39480,"(34.86597028, -111.763811277)",AZ,Arizona,Percent of adults who engage in no leisure-time physical activity,24.1,Arizona,0.37227439215586244
+112,47945,"(34.86597028, -111.763811277)",AZ,Arizona,Percent of adults aged 18 years and older who have obesity,25.1,Arizona,0.37227439215586244
+113,60713,"(34.86597028, -111.763811277)",AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,37.8,Arizona,0.37227439215586244
+114,39549,"(41.56266102, -72.649840952)",CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,35.2,Connecticut,0.21557424406298223
+115,40485,"(41.56266102, -72.649840952)",CT,Connecticut,Percent of adults who engage in no leisure-time physical activity,25.5,Connecticut,0.21557424406298223
+116,60392,"(41.56266102, -72.649840952)",CT,Connecticut,Percent of adults aged 18 years and older who have obesity,24.5,Connecticut,0.21557424406298223
+117,39964,"(28.932040377, -81.928960539)",FL,Florida,Percent of adults aged 18 years and older who have obesity,26.6,Florida,0.2491080380021398
+118,51442,"(28.932040377, -81.928960539)",FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,36.7,Florida,0.2491080380021398
+119,60794,"(28.932040377, -81.928960539)",FL,Florida,Percent of adults who engage in no leisure-time physical activity,26.9,Florida,0.2491080380021398
+120,41631,"(42.469400913, -93.816490556)",IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,35.8,Iowa,0.19760679211698298
+121,48810,"(42.469400913, -93.816490556)",IA,Iowa,Percent of adults aged 18 years and older who have obesity,29.0,Iowa,0.19760679211698298
+122,58045,"(42.469400913, -93.816490556)",IA,Iowa,Percent of adults who engage in no leisure-time physical activity,25.9,Iowa,0.19760679211698298
+123,41949,"(35.466220975, -79.159250463)",NC,North Carolina,Percent of adults who engage in no leisure-time physical activity,26.7,North Carolina,0.21798594912953162
+124,50319,"(35.466220975, -79.159250463)",NC,North Carolina,Percent of adults aged 18 years and older who have obesity,29.1,North Carolina,0.21798594912953162
+125,62788,"(35.466220975, -79.159250463)",NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,36.0,North Carolina,0.21798594912953162
+126,42829,"(45.254228894001, -68.985031336)",ME,Maine,Percent of adults aged 18 years and older who have obesity,27.8,Maine,0.18707128874369885
+127,54707,"(45.254228894001, -68.985031336)",ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,37.2,Maine,0.18707128874369885
+128,58906,"(45.254228894001, -68.985031336)",ME,Maine,Percent of adults who engage in no leisure-time physical activity,23.0,Maine,0.18707128874369885
+129,43808,"(44.567449424, -120.155031326)",OR,Oregon,Percent of adults aged 18 years and older who have obesity,26.7,Oregon,0.23181911693122834
+130,52681,"(44.567449424, -120.155031326)",OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,34.8,Oregon,0.23181911693122834
+131,61882,"(44.567449424, -120.155031326)",OR,Oregon,Percent of adults who engage in no leisure-time physical activity,19.8,Oregon,0.23181911693122834
+132,44225,"(40.793730152, -77.860700294)",PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,36.0,Pennsylvania,0.17235915137733748
+133,58990,"(40.793730152, -77.860700294)",PA,Pennsylvania,Percent of adults aged 18 years and older who have obesity,28.6,Pennsylvania,0.17235915137733748
+134,59247,"(40.793730152, -77.860700294)",PA,Pennsylvania,Percent of adults who engage in no leisure-time physical activity,26.2,Pennsylvania,0.17235915137733748
+135,44838,"(64.845079957001, -147.722059036)",AK,Alaska,Percent of adults aged 18 years and older who have obesity,27.4,Alaska,0.4139711689290463
+136,49052,"(64.845079957001, -147.722059036)",AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,38.9,Alaska,0.4139711689290463
+137,62734,"(64.845079957001, -147.722059036)",AK,Alaska,Percent of adults who engage in no leisure-time physical activity,22.0,Alaska,0.4139711689290463
+138,45119,"(38.843840757, -106.133610921)",CO,Colorado,Percent of adults aged 18 years and older who have obesity,20.7,Colorado,0.247629452120537
+139,50498,"(38.843840757, -106.133610921)",CO,Colorado,Percent of adults who engage in no leisure-time physical activity,16.5,Colorado,0.247629452120537
+140,57065,"(38.843840757, -106.133610921)",CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,35.4,Colorado,0.247629452120537
+141,46201,"(47.066528972, -109.424420645)",MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,35.6,Montana,0.35586523210378856
+142,50065,"(47.066528972, -109.424420645)",MT,Montana,Percent of adults who engage in no leisure-time physical activity,24.4,Montana,0.35586523210378856
+143,59262,"(47.066528972, -109.424420645)",MT,Montana,Percent of adults aged 18 years and older who have obesity,24.6,Montana,0.35586523210378856
+144,46776,"(39.360700171, -111.587130635)",UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,34.5,Utah,0.3062365764623598
+145,51283,"(39.360700171, -111.587130635)",UT,Utah,Percent of adults who engage in no leisure-time physical activity,18.9,Utah,0.3062365764623598
+146,60367,"(39.360700171, -111.587130635)",UT,Utah,Percent of adults aged 18 years and older who have obesity,24.4,Utah,0.3062365764623598
+147,50141,"(35.472031356, -97.521070214)",OK,Oklahoma,Percent of adults aged 18 years and older who have obesity,31.1,Oklahoma,0.31026398360722335
+148,54895,"(35.472031356, -97.521070214)",OK,Oklahoma,Percent of adults who engage in no leisure-time physical activity,31.2,Oklahoma,0.31026398360722335
+149,61686,"(35.472031356, -97.521070214)",OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,34.3,Oklahoma,0.31026398360722335
+150,57746,"(34.520880952, -106.240580985)",NM,New Mexico,Percent of adults who engage in no leisure-time physical activity,25.3,New Mexico,0.36098567743682175
+151,57990,"(34.520880952, -106.240580985)",NM,New Mexico,Percent of adults aged 18 years and older who have obesity,26.3,New Mexico,0.36098567743682175
+152,58425,"(34.520880952, -106.240580985)",NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,35.8,New Mexico,0.36098567743682175
